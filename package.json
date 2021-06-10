@@ -2,12 +2,11 @@
   "name": "first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeongdahyeon.github.io/react-calculator/",
+  "homepage": "https://dahyeon-j.github.io/react-calculator/",
   "dependencies": {
     "@testing-library/react": "^10.2.0",
     "@types/styled-components": "^4.0.3",
     "antd": "^3.10.3",
-    "gh-pages": "^3.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5",
@@ -27,5 +26,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  }
 }
